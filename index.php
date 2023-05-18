@@ -70,8 +70,8 @@
                     </div>
                 </div>
                 <div class="single-item-arrows">
-                    <img class="arrow-left" src="/media/arrow-left.svg">
-                    <img class="arrow-right" src="/media/arrow-right.svg" >
+                    <img class="arrow-left" src="media/arrow-left.svg">
+                    <img class="arrow-right" src="media/arrow-right.svg">
                 </div>
 
                 <div class="side-row">
@@ -190,7 +190,7 @@
                 </div>
                 <div class="left-block-content">
                     <div class="quote-block">
-                        <div class="quote-block__image"><img src="media/profile_pic.svg"></div>
+                        <img class="quote-block__image" src="media/profile_pic.svg">
                         <div class="quote-block__text">
                             <div class="quote-block__text_text">
                                 Lorem ipsum, dolor sit amet consectetur adipisicing elit. Laboriosam quas, aut consectetur
